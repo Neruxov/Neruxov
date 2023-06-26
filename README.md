@@ -1,3 +1,9 @@
+<h1 align="center">Hey there! 👋</h1>
+
+[//]:<div align="center">
+[//]:    <img alt="discord" src="https://lanyard.cnrad.dev/api/399212729681838082?bg=291b3e">
+[//]:</div>
+
 ```kotlin
 class Neruxov {
     fun general(): Triple<String, String, String> {
@@ -20,12 +26,9 @@ class Neruxov {
     }
 }
 ```
-
+<h2 align="center">Skills</h2>
 <div align="center">
     <img alt="icons" src="https://skillicons.dev/icons?i=kotlin,java,py,cpp,cs,mongodb,figma">
-</div>
-<div align="center">
-    <img alt="discord" src="https://lanyard.cnrad.dev/api/399212729681838082?bg=291b3e">
 </div>
 <div align="center">
     <img alt="githubstats" src="https://githubstats.neruxov.xyz/api?username=neruxov&theme=jolly&count_private=true&hide_border=true&line_height=20">
