@@ -37,4 +37,69 @@ class Neruxov {
 
 <h2 align="center">How I waste my time</h2>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2043%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-610.9%20thousand%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+🌆 Daytime                136 commits         ███████░░░░░░░░░░░░░░░░░░   26.41 % 
+🌃 Evening                279 commits         ██████████████░░░░░░░░░░░   54.17 % 
+🌙 Night                  89 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   97 commits          █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Tuesday                  100 commits         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Wednesday                58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Thursday                 71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Friday                   64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Saturday                 69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Sunday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+Kotlin                   18 hrs 2 mins       ███████████████░░░░░░░░░░   59.23 % 
+Java                     8 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+YAML                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+XML                      1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+
+🐱‍💻 Projects: 
+PaymentAPI               12 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   40.19 % 
+YooKotlin                7 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
+grief-core               5 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+LoonApiHeart             4 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Unknown Project          24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   24 repos            █████████████░░░░░░░░░░░░   51.06 % 
+Java                     16 repos            █████████░░░░░░░░░░░░░░░░   34.04 % 
+Kotlin                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Neruxov/Neruxov/main/assets/bar_graph.png)
+
+
+ Last Updated on 30/06/2023 13:45:02 UTC
 <!--END_SECTION:waka-->
