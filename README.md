@@ -38,9 +38,9 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-148-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-151-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-610.9%20thousand%20lines%20of%20code-blue)
 
@@ -48,9 +48,9 @@ class Neruxov {
 
 ```text
 🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-🌆 Daytime                142 commits         ███████░░░░░░░░░░░░░░░░░░   27.26 % 
-🌃 Evening                279 commits         █████████████░░░░░░░░░░░░   53.55 % 
-🌙 Night                  89 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+🌆 Daytime                142 commits         ███████░░░░░░░░░░░░░░░░░░   27.20 % 
+🌃 Evening                279 commits         █████████████░░░░░░░░░░░░   53.45 % 
+🌙 Night                  90 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
 ```
 
 
@@ -60,20 +60,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   18 hrs 2 mins       ███████████████░░░░░░░░░░   59.23 % 
-Java                     8 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-YAML                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-XML                      1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Kotlin                   16 hrs 26 mins      ██████████████░░░░░░░░░░░   55.35 % 
+Java                     9 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   32.95 % 
+XML                      1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+YAML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 🐱‍💻 Projects: 
-PaymentAPI               12 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   40.19 % 
-YooKotlin                7 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-grief-core               5 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-LoonApiHeart             4 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Unknown Project          24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+PaymentAPI               14 hrs 20 mins      ████████████░░░░░░░░░░░░░   48.27 % 
+grief-core               7 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+LoonApiHeart             3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+YooKotlin                2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+api-new                  1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 ```
 
 
- Last Updated on 30/06/2023 21:08:28 UTC
+ Last Updated on 01/07/2023 00:35:20 UTC
 <!--END_SECTION:waka-->
