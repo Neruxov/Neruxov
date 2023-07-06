@@ -38,7 +38,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-178-blue)
 
@@ -75,5 +75,5 @@ LoonriseFrontend         4 hrs 33 mins       ███░░░░░░░░�
 ```
 
 
- Last Updated on 06/07/2023 13:37:02 UTC
+ Last Updated on 06/07/2023 21:18:37 UTC
 <!--END_SECTION:waka-->
