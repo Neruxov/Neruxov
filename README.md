@@ -60,20 +60,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     28 hrs 1 min        █████████████████░░░░░░░░   68.47 % 
-Kotlin                   7 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-FTL                      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Gradle                   1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-Groovy                   48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Java                     25 hrs 10 mins      ██████████████████░░░░░░░   73.12 % 
+Kotlin                   4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+FTL                      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Gradle                   1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Groovy                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🐱‍💻 Projects: 
-api-new                  15 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   37.10 % 
-LoonriseFrontend         5 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-GriefCommands            5 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-PaymentAPI               3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-grief-core               3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+api-new                  14 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   41.13 % 
+LoonriseFrontend         5 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+GriefCommands            5 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+AntiRelog                1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+grief-core               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 ```
 
 
- Last Updated on 07/07/2023 21:17:58 UTC
+ Last Updated on 08/07/2023 05:19:22 UTC
 <!--END_SECTION:waka-->
