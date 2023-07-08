@@ -27,9 +27,11 @@ class Neruxov {
 }
 ```
 <h2 align="center">Skills</h2>
+
 <div align="center">
     <img alt="icons" src="https://skillicons.dev/icons?i=kotlin,java,py,cpp,cs,mongodb,figma">
 </div>
+
 <div align="center">
     <img alt="githubstats" src="https://githubstats.neruxov.xyz/api?username=neruxov&theme=jolly&count_private=true&hide_border=true&line_height=20">
     <img alt="githublangs" src="https://githubstats.neruxov.xyz/api/top-langs/?username=neruxov&layout=compact&theme=jolly&count_private=true&hide_border=true">
