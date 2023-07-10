@@ -33,8 +33,10 @@ class Neruxov {
 </div>
 
 <div align="center">
-    <img alt="githubstats" src="https://githubstats.neruxov.xyz/api?username=neruxov&theme=jolly&count_private=true&hide_border=true&line_height=20">
-    <img alt="githublangs" src="https://githubstats.neruxov.xyz/api/top-langs/?username=neruxov&layout=compact&theme=jolly&count_private=true&hide_border=true">
+    
+![github stats](https://githubstats.neruxov.xyz/api?username=neruxov&theme=jolly&count_private=true&hide_border=true&line_height=20)
+![github langs](https://githubstats.neruxov.xyz/api/top-langs/?username=neruxov&layout=compact&theme=jolly&count_private=true&hide_border=true)
+
 </div>
 
 <h2 align="center">How I waste my time</h2>
