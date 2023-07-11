@@ -42,7 +42,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-189-blue)
 
@@ -79,5 +79,5 @@ MobCoinDrops             1 hr 6 mins         █░░░░░░░░░░�
 ```
 
 
- Last Updated on 11/07/2023 05:20:22 UTC
+ Last Updated on 11/07/2023 13:29:13 UTC
 <!--END_SECTION:waka-->
