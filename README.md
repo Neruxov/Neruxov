@@ -42,7 +42,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-190-blue)
 
@@ -79,5 +79,5 @@ LoonTrade                2 hrs 43 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 13/07/2023 05:20:32 UTC
+ Last Updated on 13/07/2023 13:34:21 UTC
 <!--END_SECTION:waka-->
