@@ -44,7 +44,7 @@ class Neruxov {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-190-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-610.8%20thousand%20lines%20of%20code-blue)
 
@@ -79,5 +79,5 @@ LoonTrade                2 hrs 43 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 14/07/2023 05:20:40 UTC
+ Last Updated on 14/07/2023 13:27:39 UTC
 <!--END_SECTION:waka-->
