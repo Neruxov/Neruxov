@@ -42,9 +42,9 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-610.8%20thousand%20lines%20of%20code-blue)
 
@@ -64,20 +64,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     32 hrs 19 mins      ██████████████████████░░░   89.03 % 
-Kotlin                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Gradle                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-YAML                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Groovy                   36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Java                     35 hrs 57 mins      ██████████████████████░░░   89.11 % 
+YAML                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Gradle                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Kotlin                   46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Groovy                   37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 🐱‍💻 Projects: 
-GameCoordinator          10 hrs 39 mins      ███████░░░░░░░░░░░░░░░░░░   29.35 % 
-api-new                  9 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   26.04 % 
-LoonJobs                 4 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-LoonFurnaces             2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-LoonTrade                2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+GameCoordinator          10 hrs 42 mins      ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+api-new                  9 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+LoonJobs                 8 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+LoonFurnaces             2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+LoonTrade                2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
 ```
 
 
- Last Updated on 14/07/2023 21:17:51 UTC
+ Last Updated on 15/07/2023 05:21:07 UTC
 <!--END_SECTION:waka-->
