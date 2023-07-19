@@ -42,7 +42,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
@@ -64,20 +64,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     28 hrs 1 min        ██████████████████████░░░   89.92 % 
-YAML                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Gradle                   39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Groovy                   34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Java                     21 hrs 35 mins      ██████████████████████░░░   89.56 % 
+YAML                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Gradle                   28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Groovy                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🐱‍💻 Projects: 
-LoonJobs                 8 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   27.53 % 
-GameCoordinator          5 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-api-new                  4 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-LoonFurnaces             2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-LoonCasino               2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+LoonJobs                 8 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   37.11 % 
+api-new                  3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+GameCoordinator          2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+LoonCasino               2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+EnhancedEnderchests      2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
 ```
 
 
- Last Updated on 18/07/2023 21:15:34 UTC
+ Last Updated on 19/07/2023 05:18:19 UTC
 <!--END_SECTION:waka-->
