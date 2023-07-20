@@ -42,9 +42,9 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-610.8%20thousand%20lines%20of%20code-blue)
 
@@ -64,20 +64,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     21 hrs 35 mins      ██████████████████████░░░   89.56 % 
-YAML                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-Gradle                   28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Groovy                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Java                     16 hrs              ██████████████████████░░░   89.03 % 
+YAML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Gradle                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Groovy                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+XML                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🐱‍💻 Projects: 
-LoonJobs                 8 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   37.11 % 
-api-new                  3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-GameCoordinator          2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-LoonCasino               2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-EnhancedEnderchests      2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+LoonJobs                 5 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+LoonCasino               2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+EnhancedEnderchests      2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+api-new                  1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+LoonShops                1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
 ```
 
 
- Last Updated on 19/07/2023 21:16:36 UTC
+ Last Updated on 20/07/2023 05:18:21 UTC
 <!--END_SECTION:waka-->
