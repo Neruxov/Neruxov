@@ -42,7 +42,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-183%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -64,20 +64,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     28 hrs 22 mins      ███████████████████████░░   91.20 % 
-YAML                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Gradle                   36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-Groovy                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-XML                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Java                     36 hrs 23 mins      ███████████████████████░░   91.93 % 
+YAML                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Gradle                   47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Groovy                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+XML                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🐱‍💻 Projects: 
-api-new                  6 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-LoonJobs                 4 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-GameCoordinator          3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-LoonEnchants             2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-EnhancedEnderchests      2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+api-new                  12 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   30.53 % 
+GameCoordinator          5 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+LoonJobs                 3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+LoonEnchants             3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+EnhancedEnderchests      2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
 ```
 
 
- Last Updated on 23/07/2023 21:16:30 UTC
+ Last Updated on 24/07/2023 05:18:48 UTC
 <!--END_SECTION:waka-->
