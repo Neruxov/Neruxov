@@ -42,7 +42,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -79,5 +79,5 @@ EnhancedEnderchests      2 hrs 54 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 24/07/2023 13:24:01 UTC
+ Last Updated on 24/07/2023 21:17:19 UTC
 <!--END_SECTION:waka-->
