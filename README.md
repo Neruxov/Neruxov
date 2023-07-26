@@ -44,7 +44,7 @@ class Neruxov {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-643.6%20thousand%20lines%20of%20code-blue)
 
@@ -64,20 +64,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     36 hrs 42 mins      ███████████████████████░░   92.26 % 
-YAML                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Gradle                   44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Groovy                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-XML                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Java                     35 hrs 4 mins       ███████████████████████░░   92.31 % 
+YAML                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Gradle                   43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Groovy                   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+XML                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🐱‍💻 Projects: 
-api-new                  14 hrs 20 mins      █████████░░░░░░░░░░░░░░░░   36.03 % 
-GameCoordinator          5 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-LoonJobs                 3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-LoonEnchants             3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-AntiRelog                2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+api-new                  14 hrs 14 mins      █████████░░░░░░░░░░░░░░░░   37.47 % 
+GameCoordinator          5 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+LoonJobs                 3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+LoonEnchants             3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+AntiRelog                2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
 ```
 
 
- Last Updated on 25/07/2023 21:15:41 UTC
+ Last Updated on 26/07/2023 05:17:33 UTC
 <!--END_SECTION:waka-->
