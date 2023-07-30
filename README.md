@@ -64,20 +64,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     18 hrs 57 mins      ███████████████████████░░   93.91 % 
-Gradle                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-YAML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Groovy                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Kotlin                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Java                     12 hrs 50 mins      ███████████████████████░░   93.44 % 
+Gradle                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Groovy                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Kotlin                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🐱‍💻 Projects: 
-api-new                  9 hrs 2 mins        ███████████░░░░░░░░░░░░░░   44.79 % 
-LoonEnchants             3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-GameCoordinator          2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-LoonFurnaces             1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-AntiRelog                44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+api-new                  8 hrs 46 mins       ████████████████░░░░░░░░░   63.88 % 
+GameCoordinator          2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+AntiRelog                43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+LoonFurnaces             31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+LoonEnchants             26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 ```
 
 
- Last Updated on 29/07/2023 21:14:41 UTC
+ Last Updated on 30/07/2023 05:16:41 UTC
 <!--END_SECTION:waka-->
