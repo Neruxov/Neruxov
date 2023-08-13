@@ -42,9 +42,9 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-645.9%20thousand%20lines%20of%20code-blue)
 
@@ -64,20 +64,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     27 hrs 27 mins      ███████████████████░░░░░░   74.94 % 
-Kotlin                   6 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-GitIgnore file           42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Gradle                   33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-YAML                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Java                     24 hrs 24 mins      █████████████████░░░░░░░░   66.09 % 
+Kotlin                   10 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   27.17 % 
+GitIgnore file           42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Groovy                   28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Gradle                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🐱‍💻 Projects: 
-api-new                  8 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
-LoonJobs                 5 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-core                     5 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-LoonQuests               4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-CustomItems              3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+api-new                  10 hrs 26 mins      ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+core                     5 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+ExclusiveVPNCore         4 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+LoonQuests               4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+CustomItems              3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
 ```
 
 
- Last Updated on 13/08/2023 19:58:06 UTC
+ Last Updated on 13/08/2023 21:14:30 UTC
 <!--END_SECTION:waka-->
