@@ -29,7 +29,7 @@ class Neruxov {
 <h2 align="center">Skills</h2>
 
 <div align="center">
-    <img alt="icons" src="https://skillicons.dev/icons?i=kotlin,java,py,cpp,cs,mongodb,figma">
+    <img alt="icons" src="https://skillicons.dev/icons?i=kotlin,java,py,cpp,cs,mongodb,spring,figma,idea,git,github,gitlab,cloudflare,stackoverflow,linux">
 </div>
 
 <div align="center">
