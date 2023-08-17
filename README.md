@@ -42,7 +42,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
@@ -52,9 +52,9 @@ class Neruxov {
 
 ```text
 🌞 Morning                11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-🌆 Daytime                149 commits         ███████░░░░░░░░░░░░░░░░░░   27.39 % 
-🌃 Evening                288 commits         █████████████░░░░░░░░░░░░   52.94 % 
-🌙 Night                  96 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+🌆 Daytime                149 commits         ███████░░░░░░░░░░░░░░░░░░   27.34 % 
+🌃 Evening                288 commits         █████████████░░░░░░░░░░░░   52.84 % 
+🌙 Night                  97 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
 ```
 
 
@@ -64,20 +64,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     21 hrs 4 mins       ███████████████░░░░░░░░░░   60.58 % 
-Kotlin                   6 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-Python                   5 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Properties               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Java                     20 hrs 48 mins      ███████████████░░░░░░░░░░   60.50 % 
+Kotlin                   6 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+Python                   5 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Properties               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 Groovy                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🐱‍💻 Projects: 
-api-new                  10 hrs 9 mins       ███████░░░░░░░░░░░░░░░░░░   29.21 % 
-ExclusiveVPNCore         7 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-ExclusiveVPNBot          5 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-CustomItems              3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-LoonJobs                 1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+api-new                  9 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.39 % 
+ExclusiveVPNCore         7 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+ExclusiveVPNBot          5 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+CustomItems              3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+AirDrops                 1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 ```
 
 
- Last Updated on 16/08/2023 21:15:44 UTC
+ Last Updated on 17/08/2023 05:17:00 UTC
 <!--END_SECTION:waka-->
