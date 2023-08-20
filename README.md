@@ -42,7 +42,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
 
@@ -79,5 +79,5 @@ AimbotPrediction         5 hrs 15 mins       ███░░░░░░░░�
 ```
 
 
- Last Updated on 20/08/2023 13:18:17 UTC
+ Last Updated on 20/08/2023 21:14:35 UTC
 <!--END_SECTION:waka-->
