@@ -42,19 +42,19 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-308%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-648.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-648.2%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-🌆 Daytime                152 commits         ███████░░░░░░░░░░░░░░░░░░   27.09 % 
-🌃 Evening                288 commits         █████████████░░░░░░░░░░░░   51.34 % 
-🌙 Night                  110 commits         █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+🌞 Morning                11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+🌆 Daytime                152 commits         ███████░░░░░░░░░░░░░░░░░░   26.53 % 
+🌃 Evening                288 commits         █████████████░░░░░░░░░░░░   50.26 % 
+🌙 Night                  122 commits         █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
 ```
 
 
@@ -64,20 +64,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     18 hrs 44 mins      ████████████░░░░░░░░░░░░░   46.38 % 
-Python                   9 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
-Kotlin                   7 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-Text                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Gradle                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Java                     18 hrs 27 mins      ██████████░░░░░░░░░░░░░░░   40.69 % 
+Python                   15 hrs 35 mins      █████████░░░░░░░░░░░░░░░░   34.39 % 
+Kotlin                   7 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Text                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Gradle                   52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🐱‍💻 Projects: 
-ExclusiveVPNCore         7 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-NAC                      6 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-AirDrops                 5 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-ExclusiveVPNBot          5 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-AimbotPrediction         5 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+NAC                      8 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+AimbotPrediction         8 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+ExclusiveVPNBot          7 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+AirDrops                 5 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+ExclusiveVPNCore         5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 ```
 
 
- Last Updated on 20/08/2023 21:14:35 UTC
+ Last Updated on 21/08/2023 05:17:13 UTC
 <!--END_SECTION:waka-->
