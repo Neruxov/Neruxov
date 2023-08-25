@@ -42,7 +42,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-325%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
 
@@ -64,20 +64,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     24 hrs 44 mins      ███████████░░░░░░░░░░░░░░   45.93 % 
-Python                   13 hrs 48 mins      ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-Kotlin                   9 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Text                     2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Gradle                   1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Java                     30 hrs 17 mins      █████████████░░░░░░░░░░░░   51.95 % 
+Python                   13 hrs 48 mins      ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+Kotlin                   9 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Text                     2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Gradle                   1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🐱‍💻 Projects: 
-AimbotPrediction         10 hrs 45 mins      █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-NAC                      10 hrs 26 mins      █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-NutriaAC                 5 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-ExclusiveVPNCore         4 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-AirDrops                 3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+DungeonGeneration        11 hrs 21 mins      █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+AimbotPrediction         10 hrs 45 mins      █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+NAC                      10 hrs 26 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+NutriaAC                 6 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+ExclusiveVPNCore         3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
 ```
 
 
- Last Updated on 24/08/2023 21:15:44 UTC
+ Last Updated on 25/08/2023 05:17:15 UTC
 <!--END_SECTION:waka-->
