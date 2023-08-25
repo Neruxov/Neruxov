@@ -42,19 +42,19 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-339%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-335%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-648.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-648.5%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-🌆 Daytime                153 commits         ███████░░░░░░░░░░░░░░░░░░   26.11 % 
-🌃 Evening                299 commits         █████████████░░░░░░░░░░░░   51.02 % 
-🌙 Night                  123 commits         █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+🌞 Morning                11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+🌆 Daytime                153 commits         ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+🌃 Evening                300 commits         █████████████░░░░░░░░░░░░   51.11 % 
+🌙 Night                  123 commits         █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
 ```
 
 
@@ -79,5 +79,5 @@ ExclusiveVPNCore         3 hrs 59 mins       ██░░░░░░░░░�
 ```
 
 
- Last Updated on 25/08/2023 13:21:23 UTC
+ Last Updated on 25/08/2023 21:15:47 UTC
 <!--END_SECTION:waka-->
