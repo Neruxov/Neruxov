@@ -42,7 +42,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
 
@@ -64,20 +64,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     31 hrs 53 mins      █████████████░░░░░░░░░░░░   53.81 % 
-Python                   14 hrs 8 mins       ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
-Kotlin                   8 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Text                     2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Gradle                   47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Java                     32 hrs 6 mins       ███████████████░░░░░░░░░░   58.57 % 
+Python                   10 hrs 49 mins      █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+Kotlin                   8 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Text                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Gradle                   37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🐱‍💻 Projects: 
-DungeonGeneration        15 hrs 8 mins       ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-AimbotPrediction         10 hrs 49 mins      █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-NAC                      7 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-NutriaAC                 6 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-ExclusiveVPNCore         3 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+DungeonGeneration        16 hrs 32 mins      ████████░░░░░░░░░░░░░░░░░   30.18 % 
+NutriaAC                 7 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+AimbotPrediction         5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+ExclusiveVPNBot          4 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+ExclusiveVPNCore         3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
 ```
 
 
- Last Updated on 26/08/2023 21:14:35 UTC
+ Last Updated on 27/08/2023 05:16:38 UTC
 <!--END_SECTION:waka-->
