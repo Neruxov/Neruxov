@@ -42,7 +42,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-355%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -64,20 +64,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     32 hrs 6 mins       ███████████████░░░░░░░░░░   58.57 % 
-Python                   10 hrs 49 mins      █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-Kotlin                   8 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Text                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Gradle                   37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Java                     34 hrs 37 mins      ██████████████████░░░░░░░   71.00 % 
+Kotlin                   6 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Python                   5 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Text                     46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Gradle                   34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🐱‍💻 Projects: 
-DungeonGeneration        16 hrs 32 mins      ████████░░░░░░░░░░░░░░░░░   30.18 % 
-NutriaAC                 7 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-AimbotPrediction         5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-ExclusiveVPNBot          4 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-ExclusiveVPNCore         3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+DungeonGeneration        16 hrs 32 mins      ████████░░░░░░░░░░░░░░░░░   33.93 % 
+NutriaAC                 8 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+ExclusiveVPNCore         3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+ExclusiveVPNNode         3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+AimbotPrediction         2 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 ```
 
 
- Last Updated on 27/08/2023 21:14:52 UTC
+ Last Updated on 28/08/2023 05:18:24 UTC
 <!--END_SECTION:waka-->
