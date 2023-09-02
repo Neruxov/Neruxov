@@ -64,20 +64,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     23 hrs 34 mins      ██████████████████████░░░   88.35 % 
-Python                   1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-Kotlin                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-YAML                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-Gradle                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Java                     18 hrs 15 mins      ██████████████████████░░░   88.69 % 
+Python                   1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+Kotlin                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Gradle                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Groovy                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🐱‍💻 Projects: 
-DungeonGeneration        6 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
-api-new                  6 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-CustomItems              2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-NutriaAC                 2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-LoonKits                 2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+api-new                  6 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   29.88 % 
+DungeonGeneration        3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+CustomItems              2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+NutriaAC                 2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+GameCoordinator          1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
 ```
 
 
- Last Updated on 01/09/2023 21:15:57 UTC
+ Last Updated on 02/09/2023 05:16:41 UTC
 <!--END_SECTION:waka-->
