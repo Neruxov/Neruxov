@@ -44,17 +44,17 @@ class Neruxov {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-790.3%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-🌆 Daytime                157 commits         ███████░░░░░░░░░░░░░░░░░░   26.12 % 
-🌃 Evening                303 commits         █████████████░░░░░░░░░░░░   50.42 % 
-🌙 Night                  125 commits         █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+🌆 Daytime                157 commits         ███████░░░░░░░░░░░░░░░░░░   26.04 % 
+🌃 Evening                303 commits         █████████████░░░░░░░░░░░░   50.25 % 
+🌙 Night                  127 commits         █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
 ```
 
 
@@ -64,20 +64,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     18 hrs 15 mins      ██████████████████████░░░   88.69 % 
-Python                   1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Kotlin                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Gradle                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-Groovy                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Java                     13 hrs 46 mins      ████████████████████████░   94.09 % 
+Python                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Kotlin                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Gradle                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Groovy                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🐱‍💻 Projects: 
-api-new                  6 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   29.88 % 
-DungeonGeneration        3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-CustomItems              2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-NutriaAC                 2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-GameCoordinator          1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+api-new                  5 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   38.63 % 
+CustomItems              2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+DungeonGeneration        1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+GameCoordinator          1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+GriefCommands            48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
 ```
 
 
- Last Updated on 02/09/2023 21:14:45 UTC
+ Last Updated on 03/09/2023 05:17:17 UTC
 <!--END_SECTION:waka-->
