@@ -64,20 +64,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     8 hrs 46 mins       ████████████████████████░   94.25 % 
-Kotlin                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Gradle                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Groovy                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Java                     2 hrs 43 mins       ███████████████████████░░   91.53 % 
+Kotlin                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🐱‍💻 Projects: 
-api-new                  3 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   41.93 % 
-CustomItems              2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   27.95 % 
-DungeonGeneration        1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-ExclusiveVPNCore         14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-DungeonsPlugin           14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+CustomItems              1 hr 48 mins        ███████████████░░░░░░░░░░   60.73 % 
+DungeonGeneration        48 mins             ███████░░░░░░░░░░░░░░░░░░   27.25 % 
+ExclusiveVPNCore         9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+AntiRelog                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+api-new                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
 
 
- Last Updated on 04/09/2023 21:15:24 UTC
+ Last Updated on 05/09/2023 05:17:45 UTC
 <!--END_SECTION:waka-->
