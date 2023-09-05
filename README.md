@@ -20,7 +20,7 @@ class Neruxov {
             "intermediate" to   listOf("java", "kotlin", "python"),
             "beginner" to       listOf("c#", "c++")
         )
-        val projects =          listOf("yookotlin")
+        val projects =          listOf("yookotlin", "loonrise")
         
         return Pair(languages, projects)
     }
