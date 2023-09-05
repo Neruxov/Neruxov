@@ -26,6 +26,11 @@ class Neruxov {
     }
 }
 ```
+
+<h2 align="center">Who am I?</h2>
+
+<p align="center">I am just a guy that loves coding, nothing more. I'm working on a few small projects here and there and just trying myself out :)
+
 <h2 align="center">Skills</h2>
 
 <div align="center">
