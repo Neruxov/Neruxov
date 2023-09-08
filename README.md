@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-363%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
@@ -69,19 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     17 mins             ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-Kotlin                   17 mins             ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-FTL                      11 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-GDScript                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Gradle                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+C++                      4 hrs 49 mins       ███████████████████░░░░░░   74.34 % 
+Groovy                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Java                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Kotlin                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+FTL                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 
 🐱‍💻 Projects: 
-LoonriseFrontend         55 mins             ███████████████████░░░░░░   76.78 % 
-GriefCommands            9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-api-new                  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-ExclusiveVPNNode         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+TinkoffOlimp             4 hrs 49 mins       ███████████████████░░░░░░   74.34 % 
+LoonriseFrontend         55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+GriefCommands            28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+YandexLyceum             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+api-new                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 ```
 
 
- Last Updated on 07/09/2023 21:16:17 UTC
+ Last Updated on 08/09/2023 05:17:53 UTC
 <!--END_SECTION:waka-->
