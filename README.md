@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-C++                      4 hrs 49 mins       ███████████████████░░░░░░   74.34 % 
-Groovy                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Java                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Kotlin                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-FTL                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+C++                      6 hrs 11 mins       ████████████████░░░░░░░░░   63.28 % 
+Kotlin                   1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Groovy                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Java                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Gradle                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 
 🐱‍💻 Projects: 
-TinkoffOlimp             4 hrs 49 mins       ███████████████████░░░░░░   74.34 % 
-LoonriseFrontend         55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-GriefCommands            28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-YandexLyceum             8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-api-new                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+TinkoffOlimp             6 hrs 11 mins       ████████████████░░░░░░░░░   63.29 % 
+NutriaBackend            1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+LoonriseFrontend         1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+GriefCommands            29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+ExclusiveVPNNode         15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 ```
 
 
- Last Updated on 08/09/2023 21:15:44 UTC
+ Last Updated on 09/09/2023 05:16:45 UTC
 <!--END_SECTION:waka-->
