@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     6 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   33.11 % 
-C++                      6 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   31.35 % 
-Kotlin                   4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-JavaScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Groovy                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Java                     8 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   39.98 % 
+C++                      7 hrs               ████████░░░░░░░░░░░░░░░░░   31.15 % 
+Kotlin                   4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+JavaScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Groovy                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 🐱‍💻 Projects: 
-TinkoffOlimp             6 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   31.35 % 
-LoonriseFrontend         4 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
-api-new                  2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-NutriaBackend            1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-GriefSpawn               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+TinkoffOlimp             6 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+api-new                  3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+LoonriseFrontend         3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+NutriaBackend            1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+GriefCommands            1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 ```
 
 
- Last Updated on 12/09/2023 21:16:13 UTC
+ Last Updated on 13/09/2023 05:17:38 UTC
 <!--END_SECTION:waka-->
