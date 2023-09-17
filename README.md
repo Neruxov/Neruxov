@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-387%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     9 hrs 52 mins       ████████████████░░░░░░░░░   63.25 % 
-Kotlin                   2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-C++                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-JavaScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Python                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Java                     9 hrs 17 mins       ███████████████████░░░░░░   77.69 % 
+C++                      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Kotlin                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Python                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Gradle                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🐱‍💻 Projects: 
-api-new                  4 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-LoonriseFrontend         3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-GameCoordinator          58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-GriefSpawn               58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-LoonKits                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+api-new                  3 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   31.64 % 
+GameCoordinator          58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+GriefSpawn               58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+LoonKits                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+GriefCommands            46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
 ```
 
 
- Last Updated on 16/09/2023 21:14:55 UTC
+ Last Updated on 17/09/2023 05:17:38 UTC
 <!--END_SECTION:waka-->
