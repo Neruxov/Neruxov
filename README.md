@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-399%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-C++                      4 hrs 41 mins       ██████████████░░░░░░░░░░░   57.32 % 
-Python                   1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Kotlin                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-Java                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+C++                      4 hrs 41 mins       ███████████░░░░░░░░░░░░░░   44.53 % 
+Python                   2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+Java                     2 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Kotlin                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 🐱‍💻 Projects: 
-InformaticsOlymp         4 hrs 41 mins       ██████████████░░░░░░░░░░░   57.24 % 
-ExclusiveVPNBot          47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-informatics              37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-ExclusiveVPNCore         34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-InformaticsWeb           21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+InformaticsOlymp         4 hrs 41 mins       ███████████░░░░░░░░░░░░░░   44.47 % 
+informatics              1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+api-new                  1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+ExclusiveVPNBot          47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+GameCoordinator          32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 ```
 
 
- Last Updated on 23/09/2023 21:14:46 UTC
+ Last Updated on 24/09/2023 05:17:36 UTC
 <!--END_SECTION:waka-->
