@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-399%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-403%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-C++                      4 hrs 41 mins       ███████████░░░░░░░░░░░░░░   44.53 % 
-Python                   2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-Java                     2 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-Kotlin                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+C++                      4 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   33.36 % 
+Python                   4 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   29.33 % 
+Java                     3 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
+Kotlin                   55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Groovy                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🐱‍💻 Projects: 
-InformaticsOlymp         4 hrs 41 mins       ███████████░░░░░░░░░░░░░░   44.47 % 
-informatics              1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-api-new                  1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-ExclusiveVPNBot          47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-GameCoordinator          32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+InformaticsOlymp         4 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   33.20 % 
+informatics              3 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+api-new                  1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+GameCoordinator          1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+ExclusiveVPNBot          47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 ```
 
 
- Last Updated on 24/09/2023 21:14:47 UTC
+ Last Updated on 25/09/2023 05:18:20 UTC
 <!--END_SECTION:waka-->
