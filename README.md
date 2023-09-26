@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-C++                      4 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   33.36 % 
-Python                   4 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   29.33 % 
-Java                     3 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-Kotlin                   55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Groovy                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+C++                      4 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   36.55 % 
+Python                   3 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+Java                     3 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+Kotlin                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Groovy                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 🐱‍💻 Projects: 
-InformaticsOlymp         4 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   33.20 % 
-informatics              3 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-api-new                  1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-GameCoordinator          1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-ExclusiveVPNBot          47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+InformaticsOlymp         4 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   36.38 % 
+informatics              3 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+api-new                  1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+GameCoordinator          1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+LoonriseFrontend         39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 ```
 
 
- Last Updated on 25/09/2023 21:16:14 UTC
+ Last Updated on 26/09/2023 05:18:10 UTC
 <!--END_SECTION:waka-->
