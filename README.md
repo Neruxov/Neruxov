@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     4 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   32.40 % 
-Python                   4 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   31.78 % 
-C++                      2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-HTML                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Kotlin                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Python                   5 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.60 % 
+Java                     4 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   29.15 % 
+HTML                     1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+C++                      1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Kotlin                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🐱‍💻 Projects: 
-ProgramJudger            4 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.63 % 
-informatics              3 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-InformaticsOlymp         1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-DriveVPN                 1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-InformaticsWeb           1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+ProgramJudger            4 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   29.60 % 
+informatics              3 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+InformaticsWeb           2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+DriveVPN                 1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+InformaticsOlymp         1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 ```
 
 
- Last Updated on 03/10/2023 21:16:34 UTC
+ Last Updated on 04/10/2023 05:18:16 UTC
 <!--END_SECTION:waka-->
