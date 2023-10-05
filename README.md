@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   5 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.60 % 
-Java                     4 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-HTML                     1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-C++                      1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Kotlin                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Java                     4 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.10 % 
+Python                   3 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   29.86 % 
+HTML                     1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+C++                      1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Kotlin                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 
 🐱‍💻 Projects: 
-ProgramJudger            4 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   29.60 % 
-informatics              3 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
-InformaticsWeb           2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-DriveVPN                 1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-InformaticsOlymp         1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+ProgramJudger            4 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.16 % 
+informatics              3 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   27.10 % 
+InformaticsWeb           2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+InformaticsOlymp         1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+MSHPRepBot               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 ```
 
 
- Last Updated on 04/10/2023 21:17:42 UTC
+ Last Updated on 05/10/2023 05:17:57 UTC
 <!--END_SECTION:waka-->
