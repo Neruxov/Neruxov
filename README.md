@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     4 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.10 % 
-Python                   3 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   29.86 % 
-HTML                     1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-C++                      1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Kotlin                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Python                   3 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   33.14 % 
+Java                     2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+HTML                     2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Kotlin                   1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+C++                      1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
 
 🐱‍💻 Projects: 
-ProgramJudger            4 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.16 % 
-informatics              3 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   27.10 % 
-InformaticsWeb           2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-InformaticsOlymp         1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-MSHPRepBot               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+informatics              2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+ProgramJudger            2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+InformaticsWeb           2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+JudgerBackend            1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+InformaticsOlymp         59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 ```
 
 
- Last Updated on 05/10/2023 21:16:55 UTC
+ Last Updated on 06/10/2023 05:17:52 UTC
 <!--END_SECTION:waka-->
