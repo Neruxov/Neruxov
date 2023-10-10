@@ -15,14 +15,14 @@ class Neruxov {
     }
     
     fun coding(): Pair<Map<String, List<String>, List<String>> {
-        val languages = mapOf(
+        val skills = mapOf(
             "expert" to         listOf(),
-            "intermediate" to   listOf("java", "kotlin", "python"),
-            "beginner" to       listOf("c#", "c++")
+            "intermediate" to   listOf("java", "kotlin", "python", "c++"),
+            "beginner" to       listOf("c#", "web development")
         )
         val projects =          listOf("loonrise", "exclusivevpn", "drivevpn", "programjudger")
         
-        return Pair(languages, projects)
+        return Pair(skills, projects)
     }
 }
 ```
