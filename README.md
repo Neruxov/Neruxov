@@ -47,9 +47,9 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-429%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-794.9%20thousand%20lines%20of%20code-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
-HTML                     2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-Java                     1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-CSS                      1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Kotlin                   1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+HTML                     3 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+CSS                      3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+Python                   2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+Java                     2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+JavaScript               2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
 
 🐱‍💻 Projects: 
-LetCats                  4 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   34.31 % 
-mainpy                   2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-ProgramJudger            1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-JudgerBackend            1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-InformaticsWeb           1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+LetCats                  5 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   34.36 % 
+ProgramJudger            2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+mainpy                   2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+InformaticsWeb           1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+JudgerBackend            1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
 ```
 
 
- Last Updated on 09/10/2023 21:16:31 UTC
+ Last Updated on 10/10/2023 05:18:15 UTC
 <!--END_SECTION:waka-->
