@@ -18,7 +18,7 @@ class Neruxov {
         val skills = mapOf(
             "expert" to         listOf(),
             "intermediate" to   listOf("java", "kotlin", "python", "c++"),
-            "beginner" to       listOf("c#", "web development")
+            "beginner" to       listOf("c#", "js", "vue", "html & css")
         )
         val projects =          listOf("loonrise", "exclusivevpn", "drivevpn", "programjudger")
         
