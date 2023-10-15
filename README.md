@@ -20,7 +20,7 @@ class Neruxov {
             "intermediate" to   listOf("java", "kotlin", "python", "c++"),
             "beginner" to       listOf("c#", "js", "vue", "html & css")
         )
-        val projects =          listOf("loonrise", "exclusivevpn", "drivevpn", "programjudger")
+        val projects =          listOf("loonrise", "exclusivevpn", "drivevpn", "programjudger", "nocode")
         
         return Pair(skills, projects)
     }
