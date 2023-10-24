@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-464%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-465%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   5 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   36.57 % 
-Java                     3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-Vue.js                   2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Kotlin                   1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-C++                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Python                   5 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   39.43 % 
+Java                     3 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+Vue.js                   2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Kotlin                   1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🐱‍💻 Projects: 
-informatics              4 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   34.44 % 
-ProgramJudger            3 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-VueJS                    2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-JudgerBackend            1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-InformaticsOlymp         23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+informatics              5 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   36.82 % 
+ProgramJudger            3 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+VueJS                    2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+JudgerBackend            1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+project_source           22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 ```
 
 
- Last Updated on 23/10/2023 21:16:28 UTC
+ Last Updated on 24/10/2023 05:18:05 UTC
 <!--END_SECTION:waka-->
