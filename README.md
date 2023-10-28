@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-474%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-474%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   7 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   35.66 % 
-Kotlin                   4 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-Java                     3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-C++                      2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Vue.js                   1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Python                   6 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   34.41 % 
+Kotlin                   4 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
+C++                      2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Java                     2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Vue.js                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 🐱‍💻 Projects: 
-informatics              5 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.10 % 
-JudgerBackend            4 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
-ProgramJudger            3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-InformaticsOlymp         2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-VueJS                    1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+informatics              4 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+JudgerBackend            4 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+InformaticsOlymp         2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+ProgramJudger            2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+VueJS                    1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 ```
 
 
- Last Updated on 27/10/2023 21:15:49 UTC
+ Last Updated on 28/10/2023 05:16:58 UTC
 <!--END_SECTION:waka-->
