@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   5 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   35.09 % 
-Kotlin                   5 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   32.71 % 
-C++                      2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Vue.js                   1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Python                   6 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   31.67 % 
+Kotlin                   5 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+Vue.js                   3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+C++                      3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Text                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 🐱‍💻 Projects: 
-JudgerBackend            5 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   32.92 % 
-informatics              4 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
-InformaticsOlymp         2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-VueJS                    1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-mainpy                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+JudgerBackend            5 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+informatics              3 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+VueJS                    3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+InformaticsOlymp         3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+LeetCode                 1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
 ```
 
 
- Last Updated on 30/10/2023 21:15:21 UTC
+ Last Updated on 31/10/2023 05:18:05 UTC
 <!--END_SECTION:waka-->
