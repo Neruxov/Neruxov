@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-485%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-489%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   6 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   31.67 % 
-Kotlin                   5 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.74 % 
-Vue.js                   3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-C++                      3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Text                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Python                   6 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.89 % 
+Kotlin                   6 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   31.26 % 
+Vue.js                   4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+C++                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 
 🐱‍💻 Projects: 
-JudgerBackend            5 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   28.98 % 
-informatics              3 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-VueJS                    3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-InformaticsOlymp         3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-LeetCode                 1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+JudgerBackend            6 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   31.52 % 
+VueJS                    4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+informatics              3 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+LeetCode                 2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+InformaticsOlymp         56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 ```
 
 
- Last Updated on 31/10/2023 21:15:43 UTC
+ Last Updated on 01/11/2023 05:18:26 UTC
 <!--END_SECTION:waka-->
