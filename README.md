@@ -47,19 +47,19 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-489%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-801.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-801.3%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-🌆 Daytime                214 commits         ███████░░░░░░░░░░░░░░░░░░   27.68 % 
-🌃 Evening                392 commits         █████████████░░░░░░░░░░░░   50.71 % 
-🌙 Night                  133 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+🌞 Morning                34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+🌆 Daytime                214 commits         ███████░░░░░░░░░░░░░░░░░░   27.61 % 
+🌃 Evening                392 commits         █████████████░░░░░░░░░░░░   50.58 % 
+🌙 Night                  135 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
 ```
 
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   6 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.89 % 
-Kotlin                   6 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   31.26 % 
-Vue.js                   4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-C++                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Kotlin                   6 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   30.91 % 
+Python                   5 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.20 % 
+Vue.js                   5 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
+C++                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🐱‍💻 Projects: 
-JudgerBackend            6 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   31.52 % 
-VueJS                    4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-informatics              3 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-LeetCode                 2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-InformaticsOlymp         56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+JudgerBackend            6 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   31.15 % 
+VueJS                    5 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+informatics              3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+LeetCode                 3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+AnimationProject         52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 ```
 
 
- Last Updated on 01/11/2023 21:16:25 UTC
+ Last Updated on 02/11/2023 05:18:06 UTC
 <!--END_SECTION:waka-->
