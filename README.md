@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   6 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   30.91 % 
-Python                   5 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.20 % 
-Vue.js                   5 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-C++                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Vue.js                   6 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+Python                   5 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
+C++                      4 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Kotlin                   3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 🐱‍💻 Projects: 
-JudgerBackend            6 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   31.15 % 
-VueJS                    5 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-informatics              3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-LeetCode                 3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-AnimationProject         52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+LeetCode                 6 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+VueJS                    6 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+JudgerBackend            3 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+informatics              3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+AnimationProject         52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 ```
 
 
- Last Updated on 02/11/2023 21:16:19 UTC
+ Last Updated on 03/11/2023 05:18:14 UTC
 <!--END_SECTION:waka-->
