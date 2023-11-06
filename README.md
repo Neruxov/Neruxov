@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-501%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-502%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Vue.js                   5 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.81 % 
-C++                      5 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-Kotlin                   4 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-Python                   3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Vue.js                   5 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+C++                      5 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
+Kotlin                   4 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Python                   3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
 Dart                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 
 🐱‍💻 Projects: 
-LeetCode                 7 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.27 % 
-VueJS                    5 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.10 % 
-JudgerBackend            2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+LeetCode                 7 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.23 % 
+VueJS                    5 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.07 % 
+JudgerBackend            2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
 fluttertest              59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 Koutline                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 ```
 
 
- Last Updated on 05/11/2023 21:16:18 UTC
+ Last Updated on 06/11/2023 05:18:49 UTC
 <!--END_SECTION:waka-->
