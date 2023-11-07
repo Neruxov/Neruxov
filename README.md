@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-502%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-502%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -56,10 +56,10 @@ class Neruxov {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-🌆 Daytime                233 commits         ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-🌃 Evening                416 commits         ████████████░░░░░░░░░░░░░   49.64 % 
-🌙 Night                  155 commits         █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+🌞 Morning                35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+🌆 Daytime                233 commits         ███████░░░░░░░░░░░░░░░░░░   27.77 % 
+🌃 Evening                416 commits         ████████████░░░░░░░░░░░░░   49.58 % 
+🌙 Night                  155 commits         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
 ```
 
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Vue.js                   5 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-C++                      5 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-Kotlin                   4 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-Python                   3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Dart                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+C++                      4 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.64 % 
+Kotlin                   4 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+Vue.js                   3 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+Python                   1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Dart                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 
 🐱‍💻 Projects: 
-LeetCode                 7 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.23 % 
-VueJS                    5 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.07 % 
-JudgerBackend            2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-fluttertest              59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-Koutline                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+LeetCode                 6 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   36.44 % 
+VueJS                    3 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+JudgerBackend            1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+ExclusiveVPNCore         1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+fluttertest              59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 ```
 
 
- Last Updated on 06/11/2023 21:16:38 UTC
+ Last Updated on 07/11/2023 05:18:17 UTC
 <!--END_SECTION:waka-->
