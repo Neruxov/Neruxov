@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-C++                      5 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   33.82 % 
-Kotlin                   4 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   29.87 % 
-Vue.js                   2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Python                   1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Dart                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+C++                      4 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   38.97 % 
+Kotlin                   3 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.28 % 
+Python                   1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Vue.js                   1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Dart                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
 
 🐱‍💻 Projects: 
-LeetCode                 5 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   37.43 % 
-VueJS                    2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-ExclusiveVPNCore         2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-JudgerBackend            1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-fluttertest              59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+LeetCode                 5 hrs 25 mins       ███████████░░░░░░░░░░░░░░   43.61 % 
+ExclusiveVPNCore         2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+VueJS                    1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+fluttertest              59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Koutline                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 ```
 
 
- Last Updated on 08/11/2023 21:16:40 UTC
+ Last Updated on 09/11/2023 05:18:32 UTC
 <!--END_SECTION:waka-->
