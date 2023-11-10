@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-C++                      4 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   38.97 % 
-Kotlin                   3 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.28 % 
-Python                   1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Vue.js                   1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Dart                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Kotlin                   3 hrs 38 mins       ███████████░░░░░░░░░░░░░░   45.16 % 
+C++                      1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Python                   1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Dart                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Vue.js                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🐱‍💻 Projects: 
-LeetCode                 5 hrs 25 mins       ███████████░░░░░░░░░░░░░░   43.61 % 
-ExclusiveVPNCore         2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-VueJS                    1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-fluttertest              59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-Koutline                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+ExclusiveVPNCore         2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+LeetCode                 2 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+fluttertest              59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Koutline                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+ExclusiveVPNBot          29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 ```
 
 
- Last Updated on 09/11/2023 21:16:46 UTC
+ Last Updated on 10/11/2023 05:18:14 UTC
 <!--END_SECTION:waka-->
