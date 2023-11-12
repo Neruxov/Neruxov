@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-505%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-505%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -56,10 +56,10 @@ class Neruxov {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-🌆 Daytime                233 commits         ███████░░░░░░░░░░░░░░░░░░   27.61 % 
-🌃 Evening                420 commits         ████████████░░░░░░░░░░░░░   49.76 % 
-🌙 Night                  156 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+🌞 Morning                35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+🌆 Daytime                233 commits         ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+🌃 Evening                420 commits         ████████████░░░░░░░░░░░░░   49.70 % 
+🌙 Night                  157 commits         █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
 ```
 
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   35.46 % 
-Python                   1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-Dart                     59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-C++                      33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Vue.js                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Kotlin                   1 hr 38 mins        ████████████░░░░░░░░░░░░░   46.81 % 
+Python                   54 mins             ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
+C++                      33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+GitIgnore file           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🐱‍💻 Projects: 
-ExclusiveVPNCore         1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   31.31 % 
-LeetCode                 1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-fluttertest              59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Motovskikh               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-ExclusiveVPNBot          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+ExclusiveVPNCore         1 hr 42 mins        ████████████░░░░░░░░░░░░░   48.58 % 
+LeetCode                 1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   32.06 % 
+ExclusiveVPNBot          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Koutline                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+web-site                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 ```
 
 
- Last Updated on 11/11/2023 21:15:42 UTC
+ Last Updated on 12/11/2023 05:17:39 UTC
 <!--END_SECTION:waka-->
