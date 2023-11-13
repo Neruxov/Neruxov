@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   1 hr 38 mins        ████████████░░░░░░░░░░░░░   46.81 % 
-Python                   54 mins             ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
-C++                      33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-GitIgnore file           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Kotlin                   1 hr 49 mins        ████████████░░░░░░░░░░░░░   48.78 % 
+Python                   57 mins             ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+C++                      33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+GitIgnore file           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🐱‍💻 Projects: 
-ExclusiveVPNCore         1 hr 42 mins        ████████████░░░░░░░░░░░░░   48.58 % 
-LeetCode                 1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   32.06 % 
-ExclusiveVPNBot          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Koutline                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-web-site                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+ExclusiveVPNCore         1 hr 53 mins        █████████████░░░░░░░░░░░░   50.44 % 
+LeetCode                 1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   29.99 % 
+ExclusiveVPNBot          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Koutline                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+web-site                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 ```
 
 
- Last Updated on 12/11/2023 21:15:34 UTC
+ Last Updated on 13/11/2023 05:18:43 UTC
 <!--END_SECTION:waka-->
