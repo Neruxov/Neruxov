@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   26 mins             █████████████░░░░░░░░░░░░   53.30 % 
-GitIgnore file           11 mins             ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-Python                   6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Properties               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Java Properties          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Kotlin                   24 mins             █████████████░░░░░░░░░░░░   50.83 % 
+GitIgnore file           11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+Python                   7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Properties               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Java Properties          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 🐱‍💻 Projects: 
-ExclusiveVPNCore         30 mins             ████████████████░░░░░░░░░   62.06 % 
-Koutline                 11 mins             ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-informatics              3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Unknown Project          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-ExclusiveVPNBot          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+ExclusiveVPNCore         28 mins             ███████████████░░░░░░░░░░   59.74 % 
+Koutline                 11 mins             ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+informatics              3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Unknown Project          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+ExclusiveVPNBot          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 
 
- Last Updated on 17/11/2023 21:17:06 UTC
+ Last Updated on 18/11/2023 13:20:14 UTC
 <!--END_SECTION:waka-->
