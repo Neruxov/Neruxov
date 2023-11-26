@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Vue.js                   3 hrs 18 mins       █████████████████░░░░░░░░   66.06 % 
-Kotlin                   43 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Vue.js                   3 hrs 18 mins       █████████████████░░░░░░░░   66.12 % 
+Kotlin                   43 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
 Python                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-HTML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Java Properties          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+HTML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Java Properties          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🐱‍💻 Projects: 
-ExclusiveLanding         3 hrs 40 mins       ██████████████████░░░░░░░   73.16 % 
-Pacman                   53 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+ExclusiveLanding         3 hrs 40 mins       ██████████████████░░░░░░░   73.23 % 
+Pacman                   53 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
 ExclusiveVPNBot          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 InformaticsReal          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 ```
 
 
- Last Updated on 25/11/2023 21:15:55 UTC
+ Last Updated on 26/11/2023 05:18:08 UTC
 <!--END_SECTION:waka-->
