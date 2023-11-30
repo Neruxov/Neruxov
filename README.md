@@ -49,7 +49,7 @@ class Neruxov {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-511%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-807.9%20thousand%20lines%20of%20code-blue)
 
@@ -84,5 +84,5 @@ informatics              2 mins              █░░░░░░░░░░�
 ```
 
 
- Last Updated on 30/11/2023 13:27:14 UTC
+ Last Updated on 30/11/2023 21:17:52 UTC
 <!--END_SECTION:waka-->
