@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Vue.js                   50 mins             ████████████░░░░░░░░░░░░░   47.55 % 
-HTML                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-GitIgnore file           11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Python                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Kotlin                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Vue.js                   23 mins             ███████████░░░░░░░░░░░░░░   42.87 % 
+GitIgnore file           11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
+Kotlin                   9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Python                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Properties               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 
 🐱‍💻 Projects: 
-ExclusiveLanding         1 hr 7 mins         ████████████████░░░░░░░░░   63.64 % 
-ExclusiveVPNCore         12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Solnyshko                12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-ExclusiveVPNBot          10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-informatics              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+ExclusiveLanding         23 mins             ███████████░░░░░░░░░░░░░░   43.13 % 
+ExclusiveVPNCore         12 mins             ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+Solnyshko                12 mins             ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+informatics              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+ExclusiveVPNBot          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
 ```
 
 
- Last Updated on 01/12/2023 21:17:05 UTC
+ Last Updated on 02/12/2023 05:17:43 UTC
 <!--END_SECTION:waka-->
