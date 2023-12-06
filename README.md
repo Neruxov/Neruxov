@@ -69,15 +69,13 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   9 mins              ██████████████░░░░░░░░░░░   57.57 % 
-Properties               3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-Vue.js                   3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+Kotlin                   7 mins              █████████████████░░░░░░░░   68.17 % 
+Properties               3 mins              ████████░░░░░░░░░░░░░░░░░   31.83 % 
 
 🐱‍💻 Projects: 
-ExclusiveVPNCore         12 mins             ████████████████████░░░░░   79.15 % 
-ExclusiveLanding         3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+ExclusiveVPNCore         10 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/12/2023 21:17:05 UTC
+ Last Updated on 06/12/2023 05:19:11 UTC
 <!--END_SECTION:waka-->
