@@ -47,6 +47,8 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%2014%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-807.9%20thousand%20lines%20of%20code-blue)
@@ -67,13 +69,18 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   7 mins              █████████████████░░░░░░░░   68.17 % 
-Properties               3 mins              ████████░░░░░░░░░░░░░░░░░   31.83 % 
+Python                   1 hr 24 mins        ██████████████░░░░░░░░░░░   57.53 % 
+C++                      1 hr 2 mins         ███████████░░░░░░░░░░░░░░   42.43 % 
+Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-ExclusiveVPNCore         10 mins             █████████████████████████   100.00 % 
+tinkoff                  1 hr 24 mins        ██████████████░░░░░░░░░░░   57.46 % 
+informatics              1 hr 2 mins         ███████████░░░░░░░░░░░░░░   42.43 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+ExclusiveVPNCore         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 
- Last Updated on 06/12/2023 21:17:26 UTC
+ Last Updated on 07/12/2023 05:19:46 UTC
 <!--END_SECTION:waka-->
