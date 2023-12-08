@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
@@ -69,18 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   1 hr 24 mins        ██████████████░░░░░░░░░░░   57.53 % 
-C++                      1 hr 2 mins         ███████████░░░░░░░░░░░░░░   42.43 % 
-Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Python                   1 hr 26 mins        █████████████░░░░░░░░░░░░   51.58 % 
+C++                      1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   36.94 % 
+Kotlin                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Java                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🐱‍💻 Projects: 
-tinkoff                  1 hr 24 mins        ██████████████░░░░░░░░░░░   57.46 % 
-informatics              1 hr 2 mins         ███████████░░░░░░░░░░░░░░   42.43 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-ExclusiveVPNCore         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+tinkoff                  1 hr 24 mins        █████████████░░░░░░░░░░░░   50.02 % 
+informatics              1 hr 2 mins         █████████░░░░░░░░░░░░░░░░   36.94 % 
+ExclusiveVPNCore         14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+ProgramJudger            4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+ExclusiveVPNBot          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 ```
 
 
- Last Updated on 07/12/2023 21:17:29 UTC
+ Last Updated on 08/12/2023 05:19:06 UTC
 <!--END_SECTION:waka-->
