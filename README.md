@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   2 hrs 16 mins       ██████████████░░░░░░░░░░░   56.07 % 
+Python                   2 hrs 16 mins       ██████████████░░░░░░░░░░░   56.08 % 
 C++                      1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-Kotlin                   37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Kotlin                   37 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
 Java                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🐱‍💻 Projects: 
 tinkoff                  1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   34.53 % 
 informatics              1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-ExclusiveVPNBot          53 mins             █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-ExclusiveVPNCore         38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+ExclusiveVPNBot          53 mins             █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+ExclusiveVPNCore         38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
 ProgramJudger            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 ```
 
 
- Last Updated on 09/12/2023 21:15:56 UTC
+ Last Updated on 10/12/2023 05:18:27 UTC
 <!--END_SECTION:waka-->
