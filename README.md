@@ -69,20 +69,18 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   1 hr 22 mins        ████████████████░░░░░░░░░   63.16 % 
-Kotlin                   40 mins             ████████░░░░░░░░░░░░░░░░░   31.25 % 
-Java                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Python                   1 hr 20 mins        ██████████████████░░░░░░░   73.54 % 
+Kotlin                   27 mins             ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🐱‍💻 Projects: 
-ExclusiveVPNBot          53 mins             ██████████░░░░░░░░░░░░░░░   40.93 % 
-ExclusiveVPNCore         41 mins             ████████░░░░░░░░░░░░░░░░░   31.92 % 
-mainpy                   30 mins             ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
-ProgramJudger            4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-JudgerBackend            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+ExclusiveVPNBot          51 mins             ████████████░░░░░░░░░░░░░   46.95 % 
+mainpy                   30 mins             ███████░░░░░░░░░░░░░░░░░░   27.65 % 
+ExclusiveVPNCore         27 mins             ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
 ```
 
 
- Last Updated on 14/12/2023 21:17:19 UTC
+ Last Updated on 15/12/2023 05:19:08 UTC
 <!--END_SECTION:waka-->
