@@ -69,18 +69,15 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   1 hr 20 mins        ██████████████████░░░░░░░   73.54 % 
-Kotlin                   27 mins             ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Python                   30 mins             ███████████████████████░░   90.18 % 
+Kotlin                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
 
 🐱‍💻 Projects: 
-ExclusiveVPNBot          51 mins             ████████████░░░░░░░░░░░░░   46.95 % 
-mainpy                   30 mins             ███████░░░░░░░░░░░░░░░░░░   27.65 % 
-ExclusiveVPNCore         27 mins             ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+mainpy                   30 mins             ██████████████████████░░░   89.29 % 
+ExclusiveVPNCore         3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+ExclusiveVPNBot          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 
 
- Last Updated on 15/12/2023 21:17:07 UTC
+ Last Updated on 16/12/2023 05:18:27 UTC
 <!--END_SECTION:waka-->
