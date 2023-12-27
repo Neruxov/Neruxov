@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-525%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-526%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   3 hrs 7 mins        █████████████░░░░░░░░░░░░   51.65 % 
-Kotlin                   2 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   34.19 % 
-Groovy                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-GitIgnore file           16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Python                   3 hrs 37 mins       █████████████░░░░░░░░░░░░   53.45 % 
+Kotlin                   1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+Groovy                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+GitIgnore file           16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 🐱‍💻 Projects: 
-ExclusiveVPNBot          2 hrs 58 mins       ████████████░░░░░░░░░░░░░   49.02 % 
-ExclusiveVPNCore         2 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   39.78 % 
-Koutline                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-InformaticsWeb           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-StatusNotifier           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+ExclusiveVPNBot          3 hrs 32 mins       █████████████░░░░░░░░░░░░   52.19 % 
+ExclusiveVPNCore         2 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   32.62 % 
+bernoulli-sequence       25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Koutline                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+ExclusiveTrafficCounter  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 ```
 
 
- Last Updated on 26/12/2023 21:16:12 UTC
+ Last Updated on 27/12/2023 05:18:39 UTC
 <!--END_SECTION:waka-->
