@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   4 hrs 49 mins       ███████████████░░░░░░░░░░   60.07 % 
-Kotlin                   1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-Groovy                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-GitIgnore file           16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Python                   4 hrs 34 mins       ███████████████░░░░░░░░░░   61.75 % 
+Kotlin                   1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+Groovy                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+GitIgnore file           16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 🐱‍💻 Projects: 
-ExclusiveVPNBot          3 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   40.83 % 
-ExclusiveVPNCore         2 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-StatusNotifier           1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-bernoulli-sequence       25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Koutline                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+ExclusiveVPNBot          3 hrs 1 min         ██████████░░░░░░░░░░░░░░░   40.89 % 
+ExclusiveVPNCore         1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
+StatusNotifier           1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+bernoulli-sequence       25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Koutline                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 ```
 
 
- Last Updated on 29/12/2023 21:16:36 UTC
+ Last Updated on 30/12/2023 05:18:16 UTC
 <!--END_SECTION:waka-->
