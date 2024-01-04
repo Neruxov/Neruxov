@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   2 hrs 6 mins        ████████████░░░░░░░░░░░░░   48.01 % 
-Vue.js                   50 mins             █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-JavaScript               35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-HTML                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-CSS                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Vue.js                   50 mins             ████████░░░░░░░░░░░░░░░░░   32.56 % 
+JavaScript               35 mins             ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+HTML                     30 mins             █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Python                   21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+CSS                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
 
 🐱‍💻 Projects: 
-informatics              1 hr 21 mins        ████████░░░░░░░░░░░░░░░░░   30.85 % 
-StatusNotifier           1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   27.88 % 
-bernoulli-sequence       51 mins             █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-ExclusiveVPNBot          24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-ExclusiveTrafficCounter  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+informatics              1 hr 21 mins        █████████████░░░░░░░░░░░░   52.83 % 
+bernoulli-sequence       51 mins             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+ExclusiveTrafficCounter  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+ExclusiveVPNBot          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 
- Last Updated on 03/01/2024 21:17:11 UTC
+ Last Updated on 04/01/2024 05:19:13 UTC
 <!--END_SECTION:waka-->
