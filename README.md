@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-C++                      1 hr                ████████████░░░░░░░░░░░░░   46.33 % 
-Python                   58 mins             ███████████░░░░░░░░░░░░░░   44.98 % 
-Kotlin                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+C++                      1 hr                ████████████░░░░░░░░░░░░░   46.31 % 
+Python                   58 mins             ███████████░░░░░░░░░░░░░░   44.96 % 
+Kotlin                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-LeetCode                 1 hr                ████████████░░░░░░░░░░░░░   46.33 % 
-mainpy                   52 mins             ██████████░░░░░░░░░░░░░░░   40.40 % 
-ExclusiveVPNCore         11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+LeetCode                 1 hr                ████████████░░░░░░░░░░░░░   46.31 % 
+mainpy                   52 mins             ██████████░░░░░░░░░░░░░░░   40.39 % 
+ExclusiveVPNCore         11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
 ExclusiveVPNBot          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 informatics              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 
- Last Updated on 08/01/2024 21:16:54 UTC
+ Last Updated on 09/01/2024 05:19:16 UTC
 <!--END_SECTION:waka-->
