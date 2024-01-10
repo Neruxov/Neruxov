@@ -47,9 +47,9 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-532%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-808.5%20thousand%20lines%20of%20code-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-C++                      1 hr                ████████████░░░░░░░░░░░░░   46.31 % 
-Python                   58 mins             ███████████░░░░░░░░░░░░░░   44.96 % 
-Kotlin                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+C++                      1 hr                ███████████░░░░░░░░░░░░░░   42.43 % 
+Python                   58 mins             ██████████░░░░░░░░░░░░░░░   41.19 % 
+Java                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Kotlin                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-LeetCode                 1 hr                ████████████░░░░░░░░░░░░░   46.31 % 
-mainpy                   52 mins             ██████████░░░░░░░░░░░░░░░   40.39 % 
-ExclusiveVPNCore         11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-ExclusiveVPNBot          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-informatics              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+LeetCode                 1 hr                ███████████░░░░░░░░░░░░░░   42.43 % 
+mainpy                   52 mins             █████████░░░░░░░░░░░░░░░░   37.00 % 
+spectaculation           11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+ExclusiveVPNCore         11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+ExclusiveVPNBot          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 ```
 
 
- Last Updated on 09/01/2024 21:17:32 UTC
+ Last Updated on 10/01/2024 05:19:31 UTC
 <!--END_SECTION:waka-->
