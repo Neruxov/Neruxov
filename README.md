@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-C++                      1 hr                ███████████░░░░░░░░░░░░░░   42.49 % 
-Python                   58 mins             ██████████░░░░░░░░░░░░░░░   41.15 % 
-Java                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-Kotlin                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+C++                      1 hr 22 mins        ███████████░░░░░░░░░░░░░░   45.71 % 
+Python                   1 hr 4 mins         █████████░░░░░░░░░░░░░░░░   35.92 % 
+Java                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Kotlin                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 
 🐱‍💻 Projects: 
-LeetCode                 1 hr                ███████████░░░░░░░░░░░░░░   42.49 % 
-mainpy                   52 mins             █████████░░░░░░░░░░░░░░░░   36.96 % 
-spectaculation           11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-ExclusiveVPNCore         11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-ExclusiveVPNBot          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+LeetCode                 1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   37.49 % 
+mainpy                   58 mins             ████████░░░░░░░░░░░░░░░░░   32.60 % 
+tinkoff                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+spectaculation           11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+ExclusiveVPNCore         11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 ```
 
 
- Last Updated on 11/01/2024 21:17:25 UTC
+ Last Updated on 12/01/2024 05:19:50 UTC
 <!--END_SECTION:waka-->
