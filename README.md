@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-540%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   4 hrs 15 mins       ██████████████████░░░░░░░   71.01 % 
-C++                      1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
-Java                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   4 hrs 22 mins       ██████████████░░░░░░░░░░░   54.28 % 
+C++                      2 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   30.28 % 
+HTML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Vue.js                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Java                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 🐱‍💻 Projects: 
-mainpy                   2 hrs 45 mins       ████████████░░░░░░░░░░░░░   46.09 % 
-BazaarFlipper            1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
-LeetCode                 1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-tinkoff                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-spectaculation           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+LeetCode                 2 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   27.21 % 
+mainpy                   1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+SimpleVotings            1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+BazaarFlipper            1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+bernoulli-sequence       22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 ```
 
 
- Last Updated on 14/01/2024 21:17:31 UTC
+ Last Updated on 15/01/2024 05:19:56 UTC
 <!--END_SECTION:waka-->
