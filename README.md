@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-540%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -84,5 +84,5 @@ bernoulli-sequence       22 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 16/01/2024 13:23:18 UTC
+ Last Updated on 16/01/2024 21:17:59 UTC
 <!--END_SECTION:waka-->
