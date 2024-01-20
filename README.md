@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-544%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-546%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   4 hrs 49 mins       ████████████░░░░░░░░░░░░░   46.80 % 
-C++                      4 hrs 34 mins       ███████████░░░░░░░░░░░░░░   44.45 % 
-HTML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Vue.js                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-GitIgnore file           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Python                   5 hrs 50 mins       █████████████░░░░░░░░░░░░   51.06 % 
+C++                      4 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   40.09 % 
+HTML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Vue.js                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🐱‍💻 Projects: 
-LeetCode                 4 hrs 23 mins       ███████████░░░░░░░░░░░░░░   42.67 % 
-mainpy                   2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
-SimpleVotings            1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-BazaarFlipper            1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-bernoulli-sequence       12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+mainpy                   4 hrs 56 mins       ███████████░░░░░░░░░░░░░░   43.19 % 
+LeetCode                 4 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   38.49 % 
+SimpleVotings            1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+bernoulli-sequence       12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+tinkoff                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 ```
 
 
- Last Updated on 19/01/2024 21:17:32 UTC
+ Last Updated on 20/01/2024 05:18:47 UTC
 <!--END_SECTION:waka-->
