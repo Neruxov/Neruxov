@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   4 hrs 55 mins       ██████████████░░░░░░░░░░░   55.68 % 
-C++                      2 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   28.39 % 
-HTML                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-Kotlin                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Python                   4 hrs 52 mins       ███████████████████░░░░░░   77.77 % 
+HTML                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Kotlin                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🐱‍💻 Projects: 
-mainpy                   3 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   38.56 % 
-LeetCode                 2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-SimpleVotings            51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-SemesterExam1            48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Sockets                  47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+mainpy                   3 hrs 22 mins       █████████████░░░░░░░░░░░░   53.89 % 
+SimpleVotings            51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+SemesterExam1            48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Sockets                  47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+ExclusiveVPNCore         19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 ```
 
 
- Last Updated on 23/01/2024 21:17:41 UTC
+ Last Updated on 24/01/2024 05:20:10 UTC
 <!--END_SECTION:waka-->
