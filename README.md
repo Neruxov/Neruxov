@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-550%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-550%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   5 hrs 22 mins       ████████████████████░░░░░   79.37 % 
-HTML                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Kotlin                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Python                   4 hrs 55 mins       ███████████████████░░░░░░   77.76 % 
+HTML                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Kotlin                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 🐱‍💻 Projects: 
-mainpy                   3 hrs 51 mins       ██████████████░░░░░░░░░░░   57.07 % 
-SimpleVotings            51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-SemesterExam1            48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Sockets                  47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-ExclusiveVPNCore         19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+mainpy                   3 hrs 23 mins       █████████████░░░░░░░░░░░░   53.47 % 
+SimpleVotings            51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+SemesterExam1            48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Sockets                  47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+ExclusiveVPNCore         19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 ```
 
 
- Last Updated on 25/01/2024 21:16:41 UTC
+ Last Updated on 26/01/2024 05:18:16 UTC
 <!--END_SECTION:waka-->
