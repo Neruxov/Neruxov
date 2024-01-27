@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-550%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   4 hrs 55 mins       ███████████████████░░░░░░   77.76 % 
-HTML                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Kotlin                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Python                   3 hrs 3 mins        ████████████████░░░░░░░░░   63.09 % 
+HTML                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+C++                      29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Kotlin                   19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Text                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 
 🐱‍💻 Projects: 
-mainpy                   3 hrs 23 mins       █████████████░░░░░░░░░░░░   53.47 % 
-SimpleVotings            51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-SemesterExam1            48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Sockets                  47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-ExclusiveVPNCore         19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+SimpleVotings            51 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+SemesterExam1            48 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Sockets                  47 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+mainpy                   46 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+ExclusiveVPNBot          40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
 ```
 
 
- Last Updated on 26/01/2024 21:16:38 UTC
+ Last Updated on 27/01/2024 05:17:07 UTC
 <!--END_SECTION:waka-->
