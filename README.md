@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-C++                      5 hrs 10 mins       ████████████████░░░░░░░░░   65.03 % 
-Python                   2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.64 % 
-HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Kotlin                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+C++                      5 hrs 10 mins       █████████████████░░░░░░░░   69.27 % 
+Python                   1 hr 47 mins        ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Kotlin                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🐱‍💻 Projects: 
-tinkoff                  5 hrs 10 mins       ████████████████░░░░░░░░░   64.96 % 
-SimpleVotings            1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-ExclusiveVPNBot          40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-mainpy                   31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-CafeReviewBot            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+tinkoff                  5 hrs 10 mins       █████████████████░░░░░░░░   69.19 % 
+SimpleVotings            1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+ExclusiveVPNBot          40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+CafeReviewBot            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+ExclusiveVPNCore         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 
 
- Last Updated on 31/01/2024 21:18:12 UTC
+ Last Updated on 01/02/2024 05:19:26 UTC
 <!--END_SECTION:waka-->
