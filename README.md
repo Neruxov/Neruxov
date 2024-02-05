@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-566%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-568%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -69,20 +69,19 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-C++                      10 hrs 50 mins      ██████████████████████░░░   87.46 % 
-Python                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-Kotlin                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+C++                      10 hrs 59 mins      ███████████████████████░░   92.21 % 
+Python                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+HTML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🐱‍💻 Projects: 
-tinkoff                  10 hrs 50 mins      ██████████████████████░░░   87.40 % 
-SimpleVotings            1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-CafeReviewBot            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-ExclusiveVPNCore         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-LeetCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+tinkoff                  10 hrs 59 mins      ███████████████████████░░   92.14 % 
+SimpleVotings            50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+CafeReviewBot            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+LeetCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 
- Last Updated on 04/02/2024 21:15:06 UTC
+ Last Updated on 05/02/2024 05:19:48 UTC
 <!--END_SECTION:waka-->
