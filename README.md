@@ -69,19 +69,19 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-C++                      10 hrs 59 mins      ███████████████████████░░   92.21 % 
-Python                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-HTML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+C++                      10 hrs 52 mins      ███████████████████████░░   92.13 % 
+Python                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+HTML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🐱‍💻 Projects: 
-tinkoff                  10 hrs 59 mins      ███████████████████████░░   92.14 % 
-SimpleVotings            50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-CafeReviewBot            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+tinkoff                  10 hrs 51 mins      ███████████████████████░░   92.06 % 
+SimpleVotings            50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+CafeReviewBot            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 LeetCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 
- Last Updated on 05/02/2024 21:16:46 UTC
+ Last Updated on 06/02/2024 05:18:24 UTC
 <!--END_SECTION:waka-->
