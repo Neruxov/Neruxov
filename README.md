@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     11 hrs 55 mins      █████████████████████░░░░   82.12 % 
-C++                      59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-HTML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-XML                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Python                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Java                     10 hrs 44 mins      ████████████████████░░░░░   80.52 % 
+C++                      59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+HTML                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+XML                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Python                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 🐱‍💻 Projects: 
-duels                    4 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.40 % 
-FakepixelAPI             3 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-murder-mystery           2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-SimpleVotings            1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-tinkoff                  59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+duels                    3 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+FakepixelAPI             2 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+murder-mystery           2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+SimpleVotings            1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+tinkoff                  59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
 ```
 
 
- Last Updated on 19/02/2024 21:17:04 UTC
+ Last Updated on 20/02/2024 05:20:21 UTC
 <!--END_SECTION:waka-->
