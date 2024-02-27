@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-623%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-625%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -56,10 +56,10 @@ class Neruxov {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-🌆 Daytime                247 commits         ███████░░░░░░░░░░░░░░░░░░   27.23 % 
-🌃 Evening                455 commits         █████████████░░░░░░░░░░░░   50.17 % 
-🌙 Night                  159 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+🌞 Morning                46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+🌆 Daytime                247 commits         ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+🌃 Evening                455 commits         ████████████░░░░░░░░░░░░░   49.89 % 
+🌙 Night                  164 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
 ```
 
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     21 hrs 14 mins      ██████████████████████░░░   90.00 % 
-C++                      1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Python                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-XML                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-Vue.js                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Java                     21 hrs 14 mins      ██████████████████████░░░   87.00 % 
+C++                      1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Docker                   28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Python                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+XML                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🐱‍💻 Projects: 
-murder-mystery           19 hrs 5 mins       ████████████████████░░░░░   80.86 % 
-tinkoff                  1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-duels                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-API                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-game-cosmetics           30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+murder-mystery           19 hrs 8 mins       ████████████████████░░░░░   78.38 % 
+tinkoff                  1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+duels                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+test-kotlin-Neruxov      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+API                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
- Last Updated on 26/02/2024 21:18:05 UTC
+ Last Updated on 27/02/2024 05:18:59 UTC
 <!--END_SECTION:waka-->
