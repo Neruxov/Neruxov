@@ -47,9 +47,9 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-624%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-628%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-808.9%20thousand%20lines%20of%20code-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     21 hrs 14 mins      ██████████████████████░░░   87.00 % 
-C++                      1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Docker                   28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Python                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-XML                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Java                     19 hrs 46 mins      ███████████████████░░░░░░   74.86 % 
+C++                      1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Kotlin                   1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Docker                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Properties               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🐱‍💻 Projects: 
-murder-mystery           19 hrs 8 mins       ████████████████████░░░░░   78.38 % 
-tinkoff                  1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-duels                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-test-kotlin-Neruxov      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-API                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+murder-mystery           17 hrs 40 mins      █████████████████░░░░░░░░   66.93 % 
+test-kotlin-Neruxov      3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+tinkoff                  1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+duels                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+API                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 ```
 
 
- Last Updated on 27/02/2024 21:15:55 UTC
+ Last Updated on 28/02/2024 05:19:28 UTC
 <!--END_SECTION:waka-->
