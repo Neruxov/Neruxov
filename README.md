@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-641%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-646%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   13 hrs 29 mins      ████████████░░░░░░░░░░░░░   46.79 % 
-Java                     9 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   33.11 % 
-C++                      1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-Docker                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Properties               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Kotlin                   17 hrs 13 mins      █████████████████░░░░░░░░   67.08 % 
+Java                     3 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Docker                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Properties               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Java Properties          37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🐱‍💻 Projects: 
-test-kotlin-Neruxov      16 hrs 50 mins      ███████████████░░░░░░░░░░   58.44 % 
-murder-mystery           7 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-tinkoff                  1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-duels                    1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-test-python-Neruxov      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+test-kotlin-Neruxov      20 hrs 50 mins      ████████████████████░░░░░   81.18 % 
+murder-mystery           2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+duels                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+test-python-Neruxov      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+game-cosmetics           30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 ```
 
 
- Last Updated on 02/03/2024 21:15:31 UTC
+ Last Updated on 03/03/2024 05:18:37 UTC
 <!--END_SECTION:waka-->
