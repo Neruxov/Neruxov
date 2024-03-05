@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-649%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-649%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   19 hrs 24 mins      ███████████████████░░░░░░   75.39 % 
-Python                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-Java                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Docker                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-Properties               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Kotlin                   19 hrs 31 mins      ███████████████████░░░░░░   77.79 % 
+Python                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Java                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Properties               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Java Properties          35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🐱‍💻 Projects: 
-test-kotlin-Neruxov      23 hrs 11 mins      ███████████████████████░░   90.08 % 
-alchem                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-duels                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-test-python-Neruxov      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-ExclusiveVPNBot          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+test-kotlin-Neruxov      22 hrs 36 mins      ███████████████████████░░   90.04 % 
+alchem                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+duels                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+test-python-Neruxov      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+ExclusiveVPNBot          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 
 
- Last Updated on 04/03/2024 21:17:21 UTC
+ Last Updated on 05/03/2024 05:18:07 UTC
 <!--END_SECTION:waka-->
