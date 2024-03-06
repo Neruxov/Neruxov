@@ -57,9 +57,9 @@ class Neruxov {
 
 ```text
 🌞 Morning                47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-🌆 Daytime                267 commits         ███████░░░░░░░░░░░░░░░░░░   27.81 % 
-🌃 Evening                482 commits         █████████████░░░░░░░░░░░░   50.21 % 
-🌙 Night                  164 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+🌆 Daytime                267 commits         ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+🌃 Evening                481 commits         █████████████░░░░░░░░░░░░   50.16 % 
+🌙 Night                  164 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
 ```
 
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   19 hrs 31 mins      ███████████████████░░░░░░   77.79 % 
-Python                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Java                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Properties               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-Java Properties          35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Kotlin                   18 hrs 3 mins       █████████████████████░░░░   85.00 % 
+Java                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Java Properties          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Python                   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+HTML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🐱‍💻 Projects: 
-test-kotlin-Neruxov      22 hrs 36 mins      ███████████████████████░░   90.04 % 
-alchem                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-duels                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-test-python-Neruxov      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-ExclusiveVPNBot          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+test-kotlin-Neruxov      19 hrs 32 mins      ███████████████████████░░   91.98 % 
+alchem                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+duels                    46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+FakepixelCore            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+tinkoff                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
 
- Last Updated on 05/03/2024 21:17:02 UTC
+ Last Updated on 06/03/2024 05:19:34 UTC
 <!--END_SECTION:waka-->
