@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-651%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-657%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   6 hrs 5 mins        ███████████████░░░░░░░░░░   61.97 % 
-Java                     2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-Python                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-Java Properties          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Java                     6 hrs 56 mins       ████████████████░░░░░░░░░   64.44 % 
+Kotlin                   2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Python                   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🐱‍💻 Projects: 
-test-kotlin-Neruxov      6 hrs 31 mins       █████████████████░░░░░░░░   66.27 % 
-API                      1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-alchem                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-duels                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-core                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+API                      3 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   36.88 % 
+core                     2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
+test-kotlin-Neruxov      2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+alchem                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+ExclusiveVPNBot          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 ```
 
 
- Last Updated on 09/03/2024 21:19:13 UTC
+ Last Updated on 10/03/2024 05:19:00 UTC
 <!--END_SECTION:waka-->
