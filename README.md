@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-657%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-664%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     6 hrs 56 mins       ████████████████░░░░░░░░░   64.44 % 
-Kotlin                   2 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Python                   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Java                     13 hrs 15 mins      ████████████████████████░   95.30 % 
+Python                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Kotlin                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-API                      3 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   36.88 % 
-core                     2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
-test-kotlin-Neruxov      2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
-alchem                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-ExclusiveVPNBot          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+API                      8 hrs 14 mins       ███████████████░░░░░░░░░░   59.24 % 
+core                     4 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   35.39 % 
+ExclusiveVPNBot          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+test                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+test-kotlin-Neruxov      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 ```
 
 
- Last Updated on 10/03/2024 21:15:28 UTC
+ Last Updated on 11/03/2024 05:20:06 UTC
 <!--END_SECTION:waka-->
