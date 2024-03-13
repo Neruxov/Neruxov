@@ -47,19 +47,19 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-665%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-666%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-811.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-808.5%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-🌆 Daytime                267 commits         ███████░░░░░░░░░░░░░░░░░░   27.84 % 
-🌃 Evening                481 commits         █████████████░░░░░░░░░░░░   50.16 % 
-🌙 Night                  164 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+🌞 Morning                47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+🌆 Daytime                262 commits         ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+🌃 Evening                474 commits         █████████████░░░░░░░░░░░░   50.05 % 
+🌙 Night                  164 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
 ```
 
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     15 hrs 46 mins      ████████████████████████░   96.93 % 
-Python                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-Kotlin                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Java                     15 hrs 46 mins      ████████████████████████░   96.09 % 
+Python                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Kotlin                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Java Properties          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🐱‍💻 Projects: 
-API                      10 hrs 8 mins       ████████████████░░░░░░░░░   62.34 % 
-core                     5 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   33.89 % 
-ExclusiveVPNBot          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-test                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-duels                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+API                      10 hrs 8 mins       ███████████████░░░░░░░░░░   61.80 % 
+core                     5 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   33.59 % 
+ExclusiveVPNBot          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+test                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+test-kotlin-Neruxov      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 
 
- Last Updated on 12/03/2024 21:17:49 UTC
+ Last Updated on 13/03/2024 05:21:11 UTC
 <!--END_SECTION:waka-->
