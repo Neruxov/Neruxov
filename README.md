@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     15 hrs 41 mins      ████████████████████████░   96.10 % 
-Python                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Kotlin                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-Java Properties          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Java                     15 hrs 41 mins      ████████████████████████░   97.27 % 
+Python                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Kotlin                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Java Properties          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 Projects: 
-API                      10 hrs 8 mins       ████████████████░░░░░░░░░   62.13 % 
-core                     5 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   33.77 % 
-ExclusiveVPNBot          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-test                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-test-kotlin-Neruxov      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+API                      10 hrs 8 mins       ████████████████░░░░░░░░░   62.88 % 
+core                     5 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   34.18 % 
+ExclusiveVPNBot          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+test-kotlin-Neruxov      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+murder-mystery           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 
 
- Last Updated on 14/03/2024 21:17:11 UTC
+ Last Updated on 15/03/2024 05:19:25 UTC
 <!--END_SECTION:waka-->
