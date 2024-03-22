@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-709%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-722%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   15 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   36.42 % 
-Java                     12 hrs 28 mins      ███████░░░░░░░░░░░░░░░░░░   28.59 % 
-Python                   10 hrs 42 mins      ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
-YAML                     50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Text                     46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Kotlin                   20 hrs 35 mins      ██████████░░░░░░░░░░░░░░░   38.27 % 
+Python                   13 hrs 10 mins      ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+Java                     12 hrs 52 mins      ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+Docker                   1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+YAML                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 🐱‍💻 Projects: 
-ProdContestBot           18 hrs 43 mins      ███████████░░░░░░░░░░░░░░   42.94 % 
-FakepixelAPI             6 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Iso3166Parser            5 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-CensysParser             4 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-HypixelSkyBlock          3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+ProdContestBot           25 hrs 14 mins      ████████████░░░░░░░░░░░░░   46.91 % 
+Iso3166Parser            6 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+FakepixelAPI             6 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+CensysParser             4 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+HypixelSkyBlock          3 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 ```
 
 
- Last Updated on 21/03/2024 21:18:20 UTC
+ Last Updated on 22/03/2024 05:21:05 UTC
 <!--END_SECTION:waka-->
