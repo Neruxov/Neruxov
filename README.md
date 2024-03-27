@@ -47,9 +47,9 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-757%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-765%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-816.5%20thousand%20lines%20of%20code-blue)
 
@@ -57,9 +57,9 @@ class Neruxov {
 
 ```text
 🌞 Morning                50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-🌆 Daytime                286 commits         ███████░░░░░░░░░░░░░░░░░░   27.98 % 
-🌃 Evening                514 commits         █████████████░░░░░░░░░░░░   50.29 % 
-🌙 Night                  172 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+🌆 Daytime                286 commits         ███████░░░░░░░░░░░░░░░░░░   27.96 % 
+🌃 Evening                514 commits         █████████████░░░░░░░░░░░░   50.24 % 
+🌙 Night                  173 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
 ```
 
 
@@ -69,20 +69,20 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   41 hrs 43 mins      ████████████████░░░░░░░░░   64.93 % 
-Python                   10 hrs 53 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Java                     5 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Text                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-YAML                     1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Kotlin                   38 hrs 1 min        ██████████████░░░░░░░░░░░   58.00 % 
+Java                     11 hrs 58 mins      █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Python                   9 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+YAML                     1 hr 4 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Text                     1 hr 4 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🐱‍💻 Projects: 
-ProdContestBot           45 hrs              ██████████████████░░░░░░░   70.03 % 
-Iso3166Parser            4 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-MinecraftBot             3 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-SeleniumExperiment       2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-CensysParser             2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+ProdContestBot           40 hrs 35 mins      ███████████████░░░░░░░░░░   61.92 % 
+MinecraftBot             9 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Iso3166Parser            4 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+SeleniumExperiment       2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+backend-Neruxov          1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 ```
 
 
- Last Updated on 26/03/2024 21:18:59 UTC
+ Last Updated on 27/03/2024 05:19:53 UTC
 <!--END_SECTION:waka-->
