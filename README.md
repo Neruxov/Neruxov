@@ -47,9 +47,9 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-996%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C004%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-940.4%20thousand%20lines%20of%20code-blue)
 
@@ -69,13 +69,13 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     34 hrs 19 mins      ████████████████████████░   95.45 % 
-XML                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-Kotlin                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Java                     38 hrs 29 mins      ████████████████████████░   95.78 % 
+XML                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Kotlin                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 
 
- Last Updated on 13/06/2024 21:21:10 UTC
+ Last Updated on 14/06/2024 05:20:49 UTC
 <!--END_SECTION:waka-->
