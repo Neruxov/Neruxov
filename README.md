@@ -47,7 +47,9 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C011%20hrs%2033%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-940.4%20thousand%20lines%20of%20code-blue)
 
@@ -67,13 +69,13 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     36 hrs 46 mins      ████████████████████████░   95.59 % 
-XML                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Kotlin                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Java                     34 hrs 12 mins      ████████████████████████░   96.22 % 
+XML                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Shell Script             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 
- Last Updated on 15/06/2024 21:20:11 UTC
+ Last Updated on 16/06/2024 05:21:58 UTC
 <!--END_SECTION:waka-->
