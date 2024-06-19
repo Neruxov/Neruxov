@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C013%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C019%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
@@ -69,13 +69,13 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     25 hrs 17 mins      █████████████████████████   98.18 % 
-XML                      25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Java                     24 hrs 56 mins      █████████████████████████   99.59 % 
+XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 Shell Script             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
- Last Updated on 18/06/2024 21:19:56 UTC
+ Last Updated on 19/06/2024 05:21:40 UTC
 <!--END_SECTION:waka-->
