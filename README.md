@@ -47,9 +47,9 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C061%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C068%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-940.4%20thousand%20lines%20of%20code-blue)
 
@@ -69,13 +69,13 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Java                     24 hrs 18 mins      █████████████████████████   98.77 % 
-XML                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-Gradle                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-Groovy                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Java                     30 hrs 23 mins      █████████████████████████   98.87 % 
+XML                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Gradle                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Groovy                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 
- Last Updated on 29/06/2024 21:19:49 UTC
+ Last Updated on 30/06/2024 05:20:11 UTC
 <!--END_SECTION:waka-->
