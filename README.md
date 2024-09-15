@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C241%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C244%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
@@ -69,9 +69,13 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   1 hr 45 mins        ████████████████░░░░░░░░░   62.03 % 
+C++                      48 mins             ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Batchfile                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 
 
- Last Updated on 14/09/2024 21:20:52 UTC
+ Last Updated on 15/09/2024 05:22:58 UTC
 <!--END_SECTION:waka-->
