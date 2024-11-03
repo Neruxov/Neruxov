@@ -39,8 +39,8 @@ class Neruxov {
 
 <div align="center">
     
-![github stats](https://github-readme-stats-git-master-neruxov.vercel.app/api?username=neruxov&theme=jolly&count_private=true&hide_border=true&line_height=20)
-![github langs](https://github-readme-stats-git-master-neruxov.vercel.app/api/top-langs/?username=neruxov&layout=compact&theme=jolly&count_private=true&hide_border=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=neruxov&theme=jolly&count_private=true&hide_border=true&line_height=20)
+![github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neruxov&layout=compact&theme=jolly&count_private=true&hide_border=true)
 
 </div>
 
