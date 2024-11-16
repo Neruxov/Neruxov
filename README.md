@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C307%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C304%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
@@ -77,5 +77,5 @@ Java Properties          8 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 16/11/2024 13:28:25 UTC
+ Last Updated on 16/11/2024 21:22:08 UTC
 <!--END_SECTION:waka-->
