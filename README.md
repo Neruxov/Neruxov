@@ -47,9 +47,9 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C340%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C341%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
@@ -69,11 +69,12 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Jupyter                  13 hrs 58 mins      █████████████████████████   99.70 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-CSV/TSV                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Jupyter                  15 hrs 17 mins      █████████████████████████   98.60 % 
+CSV/TSV                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 
 
- Last Updated on 20/12/2024 21:22:08 UTC
+ Last Updated on 21/12/2024 05:22:27 UTC
 <!--END_SECTION:waka-->
