@@ -49,7 +49,7 @@ class Neruxov {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C343%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
@@ -69,13 +69,13 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Jupyter                  9 hrs 40 mins       █████████████████████░░░░   84.75 % 
-Kotlin                   1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-CSV/TSV                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Jupyter                  2 hrs 44 mins       ███████████████░░░░░░░░░░   61.24 % 
+Kotlin                   1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   32.96 % 
+CSV/TSV                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 ```
 
 
- Last Updated on 23/12/2024 21:22:01 UTC
+ Last Updated on 24/12/2024 05:24:05 UTC
 <!--END_SECTION:waka-->
