@@ -47,9 +47,9 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C351%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C351%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
@@ -69,13 +69,13 @@ class Neruxov {
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Kotlin                   1 hr 27 mins        █████████████░░░░░░░░░░░░   50.56 % 
-Python                   27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-CSV/TSV                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-TOML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Kotlin                   1 hr 48 mins        ██████████████░░░░░░░░░░░   55.63 % 
+Python                   27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+CSV/TSV                  11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+TOML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
 ```
 
 
- Last Updated on 03/01/2025 21:22:31 UTC
+ Last Updated on 04/01/2025 05:22:37 UTC
 <!--END_SECTION:waka-->
