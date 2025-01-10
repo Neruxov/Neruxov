@@ -47,10 +47,35 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C353%20hrs%2023%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
+**I'm a Night 🦉** 
 
- Last Updated on 09/01/2025 21:23:38 UTC
+```text
+🌞 Morning                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+🌆 Daytime                370 commits         ███████░░░░░░░░░░░░░░░░░░   26.35 % 
+🌃 Evening                657 commits         ████████████░░░░░░░░░░░░░   46.79 % 
+🌙 Night                  283 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+Kotlin                   1 hr 52 mins        ███████████████████████░░   93.81 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+```
+
+
+ Last Updated on 10/01/2025 05:24:18 UTC
 <!--END_SECTION:waka-->
