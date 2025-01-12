@@ -18,7 +18,7 @@ class Neruxov {
         val skills = mapOf(
             "expert" to         listOf(),
             "intermediate" to   listOf("java", "kotlin", "python", "c++"),
-            "beginner" to       listOf("c#", "js", "vue", "html & css", "golang")
+            "beginner" to       listOf("vuejs", "golang")
         )
         val projects =          listOf("exclusivevpn", "abelix.club")
         
@@ -34,7 +34,7 @@ class Neruxov {
 <h2 align="center">Skills</h2>
 
 <div align="center">
-    <img alt="icons" src="https://skillicons.dev/icons?i=kotlin,java,py,cpp,cs,mongodb,spring,git,vue,js,html,css,tailwind">
+    <img alt="icons" src="https://skillicons.dev/icons?i=kotlin,java,spring,py,golang,mongodb,postgres,git,vue,tailwind">
 </div>
 
 <div align="center">
