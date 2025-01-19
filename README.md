@@ -47,7 +47,7 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C373%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C370%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -77,5 +77,5 @@ Docker                   22 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 19/01/2025 13:23:53 UTC
+ Last Updated on 19/01/2025 21:21:12 UTC
 <!--END_SECTION:waka-->
