@@ -47,8 +47,6 @@ class Neruxov {
 <h2 align="center">How I waste my time</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C568%20hrs%2044%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
@@ -56,10 +54,10 @@ class Neruxov {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                76 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-🌆 Daytime                352 commits         ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-🌃 Evening                634 commits         ████████████░░░░░░░░░░░░░   47.78 % 
-🌙 Night                  265 commits         █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+🌞 Morning                76 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+🌆 Daytime                352 commits         ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+🌃 Evening                636 commits         ████████████░░░░░░░░░░░░░   47.86 % 
+🌙 Night                  265 commits         █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
 ```
 
 
@@ -77,5 +75,5 @@ Python                   7 mins              █░░░░░░░░░░�
 ```
 
 
- Last Updated on 02/05/2025 13:35:03 UTC
+ Last Updated on 02/05/2025 21:25:11 UTC
 <!--END_SECTION:waka-->
